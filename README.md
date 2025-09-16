@@ -1,6 +1,6 @@
 # RepoAssist: AI-Powered Codebase Management Tool
 
-RepoAssist is an AI-driven platform that connects with your Git repositories, leveraging the capabilities of Gemini 1.5, Langchain, and RAG to provide real-time insights and interactions with your codebase. Whether you're working solo or collaborating with a team, RepoAssist makes managing, querying, and understanding your codebase easier and more efficient.
+RepoAssist is an AI-driven platform that connects with your Git repositories, leveraging the capabilities of Gemini 2.5 flash, Langchain, and RAG to provide real-time insights and interactions with your codebase. Whether you're working solo or collaborating with a team, RepoAssist makes managing, querying, and understanding your codebase easier and more efficient.
 
 ## Demo Video
 
